@@ -9,7 +9,7 @@
 
 ## CHAPTER 1
 
-* [Why a Maker in Residence (values and benefits)](chapter-1/Why a Maker in residence.md)
+* [Why a Maker in Residence (values and benefits)](chapter-1/Why a Maker in Residence.md)
 
 ## CHAPTER 2
 
