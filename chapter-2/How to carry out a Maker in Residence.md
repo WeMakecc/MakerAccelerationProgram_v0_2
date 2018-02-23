@@ -1,4 +1,4 @@
-# How to carry out Maker in Residency
+# How to carry out Maker in Residence
 
 ## or a tutorship / acceleration / companionship / consultancy
 
