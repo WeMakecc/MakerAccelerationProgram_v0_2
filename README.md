@@ -13,7 +13,10 @@
 
 ## Makers’ Vademecum
 
-    * opencare MIR vademecum:** **[https://goo.gl/BcZRYB](https://goo.gl/BcZRYB)
+    * opencare MIR vademecum: [https://goo.gl/BcZRYB](https://goo.gl/BcZRYB)
+
+<iframe src="https://drive.google.com/file/d/0Byb7n6RqhSD8NF8tT055UjJLODg/preview" width="800px" height="600px"></iframe>
+
 
 ## How to make a Maker in Residence
 
@@ -22,8 +25,6 @@
     * Pre-call: [https://goo.gl/dHDMvu](https://goo.gl/dHDMvu)
 
     * Call: [https://goo.gl/Bo9GQr](https://goo.gl/Bo9GQr)
-
-*Contextualize the opencare Maker in Residence, describe the call, when it was organized, key points and values*
 
 Since 2014 WeMake organizes a "Maker in Residence" (MIR) programme, an initiative that aims to enhance WeMake’s international network of designers and makers to develop partnerships and to accelerate projects with the support of skills and professionals within the makerspace community and network.
 
