@@ -1,4 +1,7 @@
-[[TOC]]
+[on GitHub](https://github.com/WeMakecc/MakerAccelerationProgram_v0_2)
+
+[on gitbook](https://www.gitbook.com/book/wemakecc/makeraccelerationprogram_v0_2)
+
 
 ## Notes:
 
