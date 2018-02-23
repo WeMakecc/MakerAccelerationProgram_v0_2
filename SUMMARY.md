@@ -9,9 +9,8 @@
 
 ## CHAPTER 1
 
-* [chapter 1](/chapter-1/README.md)
-* [content of chapter 1](/chapter-1/content.md)
+* [Why a Maker in Residence (values and benefits)](chapter-1/Why a Maker in Residence (values and benefits).md)
 
 ## CHAPTER 2
 
-* [chapter 2](/chapter-2/README.md)
+* [How to carry out Maker in Residency](chapter-2/How to carry out a Maker in Residency.md)
