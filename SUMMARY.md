@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Overview](README.md)
 
 
 ## CHAPTER 1
@@ -16,7 +16,7 @@
 * [Acceleration process](chapter-2/Acceleration process.md)
 * [Assessment and documentation process](chapter-2/Assessment and documentation process.md)
 
-
+<!--
 ## TEMPLATES
 
 * [Layout elements](templates/layout-elements.md)
@@ -24,4 +24,4 @@
 * [Step by step guide](templates/step-by-step.md)
 * [One pager](templates/one-pager.md)
 * [How to start a new book](templates/how-to-start-a-new-book.md)
-* [Todolist](templates/todolist.md)
+* [Todolist](templates/todolist.md) -->

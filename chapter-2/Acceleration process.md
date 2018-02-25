@@ -17,6 +17,8 @@ The acceleration process may vary from project to project, depending on its need
 
 There are, however, common methodologies that could be adopted.
 
+###Schedule
+
 Here is a draft of a 2-weeks schedule, that can be changed and adjusted, as needed.
 
 **Day 1**
@@ -67,30 +69,21 @@ At the beginning it is fundamental to define the state of the art of the project
 
 The following matrix, called Project Release, helps keeping track of the work during the acceleration period, measuring the project development and outcomes and keeping the staff up to date and informed about the project and the process itself.
 
-Project release 0.1
+### Project release 0.x
 
 * **Vision**:
-
-       * Project name:
-
-       * Team members:
-
-       * Sprint period:
-
-       * Value proposition:
+  * Project name
+  * Team members
+  * Sprint period:
+  * Value proposition:
 
 * **Sprint goal**:
-
-       * deliverable
-
-       * list of features
-
-* **List of t****asks + deadlines**:
+  * deliverable
+  * list of features
+* **List of tasks + deadlines**:
 
 * **Sprint output**:
-
-       * list of features:
-
+  * list of features:
 * **Tasks accomplished**:
 
 spiegazione

@@ -8,20 +8,6 @@ Sections are built on the steps required to carry out a complete system (applica
 
 Examples and tools will be mentioned and described, in order to provide tangible references that could serve as a starting point for a future Maker in Residence or similar acceleration process.
 
-
----
-
-
----
-
-## Notes:
-
-* Schemi / riassunti
-
-  * creare placeholder per schemi con descrizione / sketch / foto ..
-
-  * timeline sviluppo progetti / slide deck
-
 ---
 
 ## Makers’ Vademecum

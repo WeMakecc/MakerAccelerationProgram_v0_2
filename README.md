@@ -5,7 +5,7 @@
 
 ## Overview
 
-Since 2014 WeMake organizes a "Maker in Residence" (aka MIR) programme, an initiative that aims to enhance WeMake’s international network of designers and makers to develop partnerships and to accelerate projects with the support of skills and professionals within the makerspace community and network.
+Since 2014 WeMake organizes a "Maker in Residence" (aka MIR), an initiative that aims to enhance WeMake’s international network of designers and makers to develop partnerships and to accelerate projects with the support of skills and professionals within the makerspace community and network.
 
 From April to September 2017 [WeMake](http://wemake.cc/) has opened the lab for a special edition of Maker in Residence: [opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence/).
 

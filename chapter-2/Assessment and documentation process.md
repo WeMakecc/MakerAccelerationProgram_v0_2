@@ -11,6 +11,8 @@
 
 Every acceleration process should be followed by an assessment one.
 
+### Assessment
+
 Assessing project’s outcome, team’s work and staff’s responsibilities is a good way to evaluate the success or pain points of initiative, and to shape a better one in the future.
 
 This could be done in multiple ways, that include having a feedback session with the resident team and discussing about different aspects that could be covered with the following questions or similar ones:
@@ -34,6 +36,9 @@ This could be done in multiple ways, that include having a feedback session with
 * What are you planning to accomplish in the near future?
 
 According to the answers a new and improved experience can be designed.
+
+
+### Documentation
 
 Documentation of projects and processes, in addition, is another aspect that is often underestimated and, once again, it can take different forms. Although the channel or medium used to document projects or processes is not strictly relevant, it is important to establish a routine that could help teams get used to the habit of making the project documented and understandable by a reference community of people.
 
