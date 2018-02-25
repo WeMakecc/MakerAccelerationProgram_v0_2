@@ -17,5 +17,5 @@
 * [BOM](templates/BOM.md)
 * [Step by step guide](templates/step-by-step.md)
 * [One pager](templates/one-pager.md)
-* [How to start a new book](how-to-start-a-new-book.md)
+* [How to start a new book](templates/how-to-start-a-new-book.md)
 * [Todolist] (templates/todolist.md)
