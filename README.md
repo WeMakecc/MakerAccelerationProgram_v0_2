@@ -3,16 +3,6 @@
 [on gitbook](https://www.gitbook.com/book/wemakecc/makeraccelerationprogram_v0_2)
 
 
-
-# How to make a Maker in Residence (and other acceleration program)
-
-* Intro Call for Makers (how it started)
-
-    * Pre-call: [https://goo.gl/dHDMvu](https://goo.gl/dHDMvu)
-
-    * Call: [https://goo.gl/Bo9GQr](https://goo.gl/Bo9GQr)
-
-
 ## Overview
 
 Since 2014 WeMake organizes a "Maker in Residence" (aka MIR) programme, an initiative that aims to enhance WeMake’s international network of designers and makers to develop partnerships and to accelerate projects with the support of skills and professionals within the makerspace community and network.
@@ -34,23 +24,3 @@ Teams interested in taking part in the programme had to publish a story (see [he
 In order to complete the application an additional [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSegOVLtcEd9eGMryRlHRwKqP_mSnZkz5YhyjmQ-nTGAQQLRjw/viewform?usp=sf_link) had to be filled, with logistics and private information.
 
 A selection process followed these steps, resulting into the beginning of the residency program. WeMake, therefore, acted as an infrastructure to develop, improve and accelerate care-related projects, helping them find a shape and own viability.
-
----
-
-## Notes:
-
-* Schemi / riassunti
-
-  * creare placeholder per schemi con descrizione / sketch / foto ..
-
-  * timeline sviluppo progetti / slide deck
-
----
-
-## Makers’ Vademecum
-
-* opencare Maker in Residence vademecum: [https://goo.gl/BcZRYB](https://goo.gl/BcZRYB)
-
-<iframe src="https://drive.google.com/file/d/0Byb7n6RqhSD8NF8tT055UjJLODg/preview" width="800px" height="1100px"></iframe>
-
----
