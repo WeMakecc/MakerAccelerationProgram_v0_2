@@ -56,3 +56,5 @@ GitHub Pages, a static site hosting service by GitHub, can be set up as a multi 
 * An **About page**, describing scenario, journey, next steps and introducing the team;
 
 * A **News page**, with blogposts and updates.
+
+<iframe src="https://drive.google.com/file/d/1iHaQjCRfXx7LuG0e8sFHZ1_txlc9ZsCH/preview" width="800px" height="600px"></iframe>
