@@ -14,7 +14,20 @@
 
    * Asana: [https://goo.gl/xzR9e2](https://goo.gl/xzR9e2)
 
-*Provide helpful information about preparing and structuring an acceleration process, considering logistics and project constraints.*
+<!--
+* Preparation process:
+
+  * Conference call assessment: [https://goo.gl/L1E4ri](https://goo.gl/L1E4ri)
+
+  * Blueprint: [https://goo.gl/3KpGof](https://goo.gl/3KpGof)
+
+  * Welcome Kit: [https://goo.gl/FrkWM7](https://goo.gl/FrkWM7)
+
+  * Drive Folder: [https://goo.gl/W88nvS](https://goo.gl/W88nvS)
+
+  * Contact list: [https://goo.gl/Ejn9Cm](https://goo.gl/Ejn9Cm)
+
+  * Asana: [https://goo.gl/xzR9e2](https://goo.gl/xzR9e2) -->
 
 While contacting participants, it is fundamental to start planning and structuring the acceleration process, considering multiple elements related to design, logistics, timings, etc.
 

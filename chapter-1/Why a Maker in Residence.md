@@ -13,7 +13,7 @@ The possibility to reside for a period of time in a makerspace, on the other han
 
 * link: [Why we are making it](https://edgeryders.eu/t/call-for-applications-opencare-maker-in-residence/785)
 
-
+> **info no-icon**
 > **Why we’re doing the opencare Maker in Residence**
 > Through this special edition of residency we are trying to create an active and participatory link between the online and offline collaboration.
 >
@@ -29,5 +29,5 @@ The possibility to reside for a period of time in a makerspace, on the other han
 > - you’re not alone: working in your office is great, but having people around you is awesome!
 > - tacit knowledge: looking others makers (designers, artists, tinkerers, ...) working around you will ... making around you is an hidden but huge diffuse competence and skills repository
 > - explore different point of view about your project:
-  There’s the s*** you know, the s*** you know you don’t know, and the s*** you don’t know you don’t know.
+  [There’s the sxxx you know, the sxxx you know you don’t know, and the sxxx you don’t know you don’t know.](http://jangosteve.com/post/380926251/no-one-knows-what-theyre-doing)
 > - **online + offline = GREAT THINGS**!

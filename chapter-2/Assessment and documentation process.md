@@ -7,7 +7,12 @@
 
   - MicroWebsiteTemplate: [https://goo.gl/yfUUqX](https://goo.gl/yfUUqX)
 
-*Hand out templates and tutorials to carry out an effective project documentation and assessment.*
+
+<!-- * Assessment and documentation process:
+
+  - conference call assessment: [https://goo.gl/FjpzEp](https://goo.gl/FjpzEp)
+
+  - MicroWebsiteTemplate: [https://goo.gl/yfUUqX](https://goo.gl/yfUUqX) -->
 
 Every acceleration process should be followed by an assessment one.
 

@@ -3,15 +3,25 @@
 
 * Acceleration process:
 
-   * Agile planning: [https://goo.gl/VEAWTP](https://goo.gl/VEAWTP)
+  * Agile planning: [https://goo.gl/VEAWTP](https://goo.gl/VEAWTP)
 
-   * Abilitazioni / lezioni / knowledge transfer
+  * Abilitazioni / lezioni / knowledge transfer
 
-   * Project release definition: [https://goo.gl/TFnnpd](https://goo.gl/TFnnpd)
+  * Project release definition: [https://goo.gl/TFnnpd](https://goo.gl/TFnnpd)
 
-   * Editorial plan: [https://goo.gl/G2e3zL](https://goo.gl/G2e3zL)
+  * Editorial plan: [https://goo.gl/G2e3zL](https://goo.gl/G2e3zL)
 
- *Introduce acceleration tools and methodologies.*
+
+
+<!-- * Acceleration process:
+
+  * Agile planning: [https://goo.gl/VEAWTP](https://goo.gl/VEAWTP)
+
+  * Abilitazioni / lezioni / knowledge transfer
+
+  * Project release definition: [https://goo.gl/TFnnpd](https://goo.gl/TFnnpd)
+
+  * Editorial plan: [https://goo.gl/G2e3zL](https://goo.gl/G2e3zL) -->
 
 The acceleration process may vary from project to project, depending on its needs and characteristics.
 
@@ -86,7 +96,7 @@ The following matrix, called Project Release, helps keeping track of the work du
   * list of features:
 * **Tasks accomplished**:
 
-spiegazione
+### Agile kick-off
 
 This is part of various agile planning kick-off activities, usually implemented during the first days of the programme. The agile kick-off is a set of questions, usually moderated by a member of the staff, that the teams need to answer to.
 

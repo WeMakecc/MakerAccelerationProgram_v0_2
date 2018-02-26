@@ -2,8 +2,25 @@
 
 [on gitbook](https://www.gitbook.com/book/wemakecc/makeraccelerationprogram_v0_2)
 
+# Summary
 
-## Overview
+* [Overview](README.md)
+
+
+## CHAPTER 1
+
+* [Why a Maker in Residence (values and benefits)](chapter-1/Why a Maker in Residence.md)
+
+## CHAPTER 2
+
+* [How to carry out Maker in Residency](chapter-2/How to carry out a Maker in Residence.md)
+* [Application process](chapter-2/Application process.md)
+* [Selection process](chapter-2/Selection process.md)
+* [Preparation process](chapter-2/Preparation process.md)
+* [Acceleration process](chapter-2/Acceleration process.md)
+* [Assessment and documentation process](chapter-2/Assessment and documentation process.md)
+
+# Overview
 
 Since 2014 WeMake organizes a "Maker in Residence" (aka MIR), an initiative that aims to enhance WeMake’s international network of designers and makers to develop partnerships and to accelerate projects with the support of skills and professionals within the makerspace community and network.
 

@@ -9,6 +9,17 @@
 * Acceptance email: [https://goo.gl/2RCSp8](https://goo.gl/2RCSp8)
 
 
+<!-- * Staff’s pipeline: [https://goo.gl/GgkFJo](https://goo.gl/GgkFJo)
+
+* Project mapping: [https://goo.gl/RTVbvs](https://goo.gl/RTVbvs)
+
+* Evaluation Matrix: [https://goo.gl/iY865D](https://goo.gl/iY865D)
+
+* Acceptance email: [https://goo.gl/2RCSp8](https://goo.gl/2RCSp8)
+ -->
+
+
+
 During and/or after the application/call it is possible to start the selection process.
 
 The selection criteria must be decided in advance and preferably explicitly communicated in the call.
