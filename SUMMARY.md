@@ -9,12 +9,12 @@
 
 ## CHAPTER 2
 
-* [How to carry out Maker in Residency](chapter-2/How to carry out a Maker in Residence.md)
-* [Application process](chapter-2/Application process.md)
-* [Selection process](chapter-2/Selection process.md)
-* [Preparation process](chapter-2/Preparation process.md)
-* [Acceleration process](chapter-2/Acceleration process.md)
-* [Assessment and documentation process](chapter-2/Assessment and documentation process.md)
+* [How to](chapter-2/How to carry out a Maker in Residence.md)
+* [Application](chapter-2/Application process.md)
+* [Selection](chapter-2/Selection process.md)
+* [Preparation](chapter-2/Preparation process.md)
+* [Acceleration](chapter-2/Acceleration process.md)
+* [Assessment and documentation](chapter-2/Assessment and documentation process.md)
 
 <!--
 ## TEMPLATES
