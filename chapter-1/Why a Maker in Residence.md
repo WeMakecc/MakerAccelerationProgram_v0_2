@@ -15,6 +15,7 @@ The possibility to reside for a period of time in a makerspace, on the other han
 
 > **info no-icon**
 > **Why we’re doing the opencare Maker in Residence**
+> 
 > Through this special edition of residency we are trying to create an active and participatory link between the online and offline collaboration.
 >
 > On one hand **online collaboration** is a great experience: you can get inspiration by reading stories, learning from all around the world experiences, finding technical documentation, forking and contributing to different projects …
