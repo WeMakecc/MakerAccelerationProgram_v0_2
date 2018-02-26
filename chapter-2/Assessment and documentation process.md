@@ -3,7 +3,7 @@
 
 * Assessment and documentation process:
 
-  - conference call assessment: [https://goo.gl/FjpzEp](https://goo.gl/FjpzEp)
+  - conference call assessment
 
   - MicroWebsiteTemplate: [https://goo.gl/yfUUqX](https://goo.gl/yfUUqX)
 
