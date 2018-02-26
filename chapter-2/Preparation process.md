@@ -2,17 +2,17 @@
 
 * Preparation process:
 
-   * Conference call assessment: [https://goo.gl/L1E4ri](https://goo.gl/L1E4ri)
+   * Conference call assessment:
 
    * Blueprint: [https://goo.gl/3KpGof](https://goo.gl/3KpGof)
 
    * Welcome Kit: [https://goo.gl/FrkWM7](https://goo.gl/FrkWM7)
 
-   * Drive Folder: [https://goo.gl/W88nvS](https://goo.gl/W88nvS)
+   * Drive Folder
 
-   * Contact list: [https://goo.gl/Ejn9Cm](https://goo.gl/Ejn9Cm)
+   * Contact list
 
-   * Asana: [https://goo.gl/xzR9e2](https://goo.gl/xzR9e2)
+   * Asana
 
 <!--
 * Preparation process:

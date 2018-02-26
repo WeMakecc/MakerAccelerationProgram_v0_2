@@ -9,7 +9,7 @@
 
   * Project release definition: [https://goo.gl/TFnnpd](https://goo.gl/TFnnpd)
 
-  * Editorial plan: [https://goo.gl/G2e3zL](https://goo.gl/G2e3zL)
+  * Editorial plan
 
 
 

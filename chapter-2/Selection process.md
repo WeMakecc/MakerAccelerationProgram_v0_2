@@ -1,6 +1,6 @@
 ## Selection process:
 
-* Staff’s pipeline: [https://goo.gl/GgkFJo](https://goo.gl/GgkFJo)
+* Staff’s pipeline
 
 * Project mapping: [https://goo.gl/RTVbvs](https://goo.gl/RTVbvs)
 
