@@ -9,11 +9,3 @@ Sections are built on the steps required to carry out a complete system (applica
 Examples and tools will be mentioned and described, in order to provide tangible references that could serve as a starting point for a future Maker in Residence or similar acceleration process.
 
 ---
-
-## Makers’ Vademecum
-
-* opencare Maker in Residence vademecum: [https://goo.gl/BcZRYB](https://goo.gl/BcZRYB)
-
-<iframe src="https://drive.google.com/file/d/0Byb7n6RqhSD8NF8tT055UjJLODg/preview" width="800px" height="1100px"></iframe>
-
----

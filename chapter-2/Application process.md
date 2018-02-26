@@ -35,4 +35,14 @@ An additional [private form](https://docs.google.com/forms/d/e/1FAIpQLSegOVLtcEd
 
 Needless to say that it important to establish an opening and closing date for the call, in order to communicate a defined time frame in which the applications will be accepted and reviewed.
 
+## Makers’ Vademecum
+
+These information (“who it is intended for”, “what is offered”, “what participants are expected to do”) could be further explored and explained in a document directed to makers/applicants.
+As for the opencare Maker in Residence, a booklet with these summary statements was designed and shared digitally. A printed version, in addition, was handed over when teams arrived at the makerspace, as a part of a welcome kit.
+
+* opencare Maker in Residence vademecum: [https://goo.gl/BcZRYB](https://goo.gl/BcZRYB)
+
+<iframe src="https://drive.google.com/file/d/0Byb7n6RqhSD8NF8tT055UjJLODg/preview" width="800px" height="1100px"></iframe>
+
+
 * * *
